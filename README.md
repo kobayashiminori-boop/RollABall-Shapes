@@ -1,5 +1,11 @@
 # Roll-a-Ball Shapes（課題②）
 
+## 動作動画
+
+[Roll-a-Ball 課題①・②の動作動画（YouTube）](https://youtu.be/DwcY27HnhtA)
+
+前半は立方体の基本版、後半は三角柱・円錐版です。
+
 ## 開き方
 
 Unity Hub の「追加」からこのフォルダを選び、Unity 6000.6.6f1 で開いてください。
