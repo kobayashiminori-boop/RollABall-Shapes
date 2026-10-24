@@ -23,3 +23,10 @@ Unity Hub の「追加」からこのフォルダを選び、Unity 6000.6.6f1 �
 `Library`、`Temp`、`Logs`などの生成データは元からコピーせず、このプロジェクト専用に再生成します。
 元プロジェクトは変更していません。
 
+## リポジトリ運用
+
+- [最優先のアクセス制約](AGENTS.md)
+- [開発・コミット・PR・リリースのガイドライン](.github/CONTRIBUTING.md)
+- 通常開発は最新の `staging` から `feature/*` を作成し、PRのbaseを `staging` に明示します。
+- [staging宛てのPR作成画面](https://github.com/kobayashiminori-boop/RollABall-Shapes/compare/staging...staging?expand=1) で作業ブランチをheadに選びます。
+- `main` は本番・デフォルトブランチです。`staging` とともに保持し、自動削除しません。

@@ -29,3 +29,7 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Unity recovery snapshots
+/Assets/_Recovery/
+/Assets/_Recovery.meta
